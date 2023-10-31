@@ -1,1 +1,1 @@
-vendorlib-sbom.json merge=custom-merge
+vendorlib-sbom.json merge=sbom-merge
